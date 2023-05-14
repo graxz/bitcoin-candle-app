@@ -2,6 +2,8 @@
 
 Esse projeto é um app que consome uma fila de candles geradas a partir do valor do bitcoin como um mercado financeiro.
 
+API: https://github.com/graxz/bitcoin-candle-api
+
 ## 🧪 Tecnologias
 
 - [Vue.js](https://vuejs.org/)
