@@ -4,6 +4,9 @@ Esse projeto é um app que consome uma fila de candles geradas a partir do valor
 
 API: https://github.com/graxz/bitcoin-candle-api
 
+![image](https://github.com/graxz/bitcoin-candle-app/assets/60474834/f6aa4c8b-2da4-449d-ba1d-58150b57188a)
+
+
 ## 🧪 Tecnologias
 
 - [Vue.js](https://vuejs.org/)
