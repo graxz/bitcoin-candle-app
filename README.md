@@ -1,23 +1,37 @@
-# bitcoin-candle-app
+# 📝 Sobre
 
-## Project setup
+Esse projeto é um app que consome uma fila de candles geradas a partir do valor do bitcoin como um mercado financeiro.
 
-```
-npm install
-```
+## 🧪 Tecnologias
 
-### Compiles and hot-reloads for development
+- [Vue.js](https://vuejs.org/)
 
-```
-npm run serve
-```
+## 🚀 Como executar
 
-### Compiles and minifies for production
+- Clone o repositório
 
-```
-npm run build
+```bash
+$ git clone
 ```
 
-### Configuration
+- Instale as dependências
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```bash
+$ yarn
+```
+
+- Inicie o servidor (Desenvolvimento)
+
+```bash
+$ yarn serve
+```
+
+- Inicie o servidor (Produção)
+
+```bash
+$ yarn build
+```
+
+## 📝 Licença
+
+Este projeto está sob a licença [MIT](./LICENSE).
